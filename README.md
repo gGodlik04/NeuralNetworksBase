@@ -1,2 +1,2 @@
 # NeuralNetworksBase
-base of neural networks on python/ learning
+learning of neural networks on python/PyTorch
